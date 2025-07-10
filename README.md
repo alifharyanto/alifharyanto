@@ -82,3 +82,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alifharyanto&label=Profile+Views&color=blue&style=flat" alt="view count"/>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/alifharyanto/alifharyanto/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+

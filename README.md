@@ -66,7 +66,7 @@
 - 🎮 **Citayam School CP** — Roblox Studio + Lua version  
 - 🤖 **FX Intelligence** — Speech-to-Text + Text-to-Speech  
 - 🌐 **FX Music** — HTML + CSS + JS
-- 🔔 **FX Code** — Word management software provider platform
+- 🛠️ **FX Code** — Word management software provider platform
 
 ---
 

@@ -9,7 +9,7 @@
 <h3 align="center">🧠 AI Engineer & 💻 Web Developer | 🎮 Game Developer in Roblox | 🎓 SMK Wira Buana</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00BFFF&center=true&vCenter=true&lines=🤖+AI+Enthusiast;🎮+Game+Developer+in+Roblox+Studio;🌐+Web+Developer;+🤖+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=00BFFF&center=true&vCenter=true&lines=🤖+AI+Enthusiast;🎮+Game+Developer+in+Roblox+Studio;🌐+Web+Developer;+🤖+AI+Engineer" alt="Typing SVG" />
 </p>
 
 

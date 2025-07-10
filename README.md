@@ -74,6 +74,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alifharyanto201012@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome&logoColor=white)](https://portofolio-mhmmdalif.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/44mhmdaliff_)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@finezzzzz)
 
 ---
 

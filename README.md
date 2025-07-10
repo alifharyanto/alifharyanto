@@ -75,7 +75,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifharyanto201012@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0088CC?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-mhmmdalif.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/44mhmdaliff_)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@finezzzzz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@finezzzzz_)
 
 ---
 

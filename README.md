@@ -1,11 +1,17 @@
+
 <!-- Profil README untuk GitHub -->
 
-<h1 align="center">Hi there, I'm M.Alif Haryanto</h1>
-<h3 align="center">🧠AI Engineer & 💻Web Developer | 🎓SMK Wira Buana | Game Developer in Roblox Studio</h3>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Funny Banner" />
+</p>
+
+<h1 align="center">Hi there, I'm M. Alif Haryanto 👋</h1>
+<h3 align="center">🧠 AI Engineer & 💻 Web Developer | 🎮 Game Developer in Roblox | 🎓 SMK Wira Buana</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000color=00BFFF&center=true&vCenter=true&lines=🤖+AI+Enthusiast;🎮+Game+Developer+in+Roblox+Studio;🌐+Web+Developer;+🤖+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00BFFF&center=true&vCenter=true&lines=🤖+AI+Enthusiast;🎮+Game+Developer+in+Roblox+Studio;🌐+Web+Developer;+🤖+AI+Engineer" alt="Typing SVG" />
 </p>
+
 
 ---
 

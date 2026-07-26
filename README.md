@@ -1,12 +1,13 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,100:2563EB&text=Muhammad%20Alif%20Haryanto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Web%20Developer%20|%20Roblox%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,100:2563EB&text=Muhammad%20Alif%20Haryanto&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20Roblox%20Developer&descAlignY=58"/>
 
 # 👋 Hi, I'm Muhammad Alif Haryanto
 
-### 💻 Software Engineering Student • 🤖 AI Enthusiast • 🎮 Roblox Developer
+### 💻 Full Stack Web Developer • 🎮 Roblox Developer • 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Full+Stack+Web+Developer;Roblox+Game+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Roblox+Game+Developer;Building+Awesome+Projects;Always+Learning+New+Technologies"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=alifharyanto&style=for-the-badge&color=0e75b6"/>
@@ -18,71 +19,83 @@
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-```yaml
-Name: Muhammad Alif Haryanto
-
-Education:
-  School: SMK Wira Buana
-  Major: Software Engineering (RPL)
-
-Location:
-  Indonesia 🇮🇩
-
-Current Focus:
-  - Artificial Intelligence
-  - Web Development
-  - Roblox Game Development
-  - UI/UX Design
-
-Currently Learning:
-  - Laravel
-  - Express.js
-  - Node.js
-  - Machine Learning
-
-Goal:
-  Become a Professional AI Engineer 🚀
+```json
+{
+  "name": "Muhammad Alif Haryanto",
+  "username": "alifharyanto",
+  "location": "Indonesia 🇮🇩",
+  "education": {
+    "school": "SMK Wira Buana",
+    "major": "Software Engineering (RPL)"
+  },
+  "role": "Full Stack Web Developer",
+  "currentlyLearning": [
+    "React",
+    "Next.js",
+    "Laravel",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL"
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Web Development",
+    "Roblox Studio",
+    "Open Source"
+  ],
+  "goal": "Build software that is useful, scalable, and impactful."
+}
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-### Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,lua,php"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,lua"/>
 
-### Frameworks
+## ⚛️ Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel"/>
 
-### Database
+## 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase"/>
 
-### Cloud & Tools
+## ☁️ Cloud
 
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=gcp"/>
 
-### AI Tools
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+<img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+## 🤖 AI Tools
 
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blackbox.AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alifharyanto&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alifharyanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifharyanto&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -94,7 +107,17 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alifharyanto&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alifharyanto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alifharyanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -110,38 +133,30 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alifharyanto&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎮 Citayam School CP | Roblox Roleplay Game | Lua |
-| 🤖 FX Intelligence | Speech-to-Text & Text-to-Speech AI | Python |
-| 🎵 FX Music | Music Streaming Website | HTML CSS JS |
-| 💻 FX Code | Word Management Platform | Laravel |
+| 🚀 Project | 💡 Description | 🛠️ Tech |
+|------------|---------------|---------|
+| 🎮 Citayam School CP | Roblox Roleplay Experience | Lua |
+| 🤖 FX Intelligence | Speech-to-Text & Text-to-Speech | Python |
+| 🎵 FX Music | Modern Music Website | HTML • CSS • JavaScript |
+| 💻 FX Code | Office Management Platform | Laravel |
 
 ---
 
 # 📚 Currently Learning
 
+- ⚛️ React
+- ▲ Next.js
+- 🟢 Node.js
+- 🚀 Express.js
+- 🐘 Laravel
+- 🐘 PostgreSQL
 - 🤖 Artificial Intelligence
-- 🌐 Full Stack Web Development
-- ☁️ Google Cloud Platform
-- ⚡ Backend Development
-- 🧠 Machine Learning
 
 ---
 
-# 🌎 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -169,7 +184,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github.com/alifharyanto/alifharyanto/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/alifharyanto/alifharyanto/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -177,12 +192,13 @@ Goal:
 
 <div align="center">
 
-## 💡 Favorite Quote
+### 💬 Quote
 
-> **"Code. Learn. Build. Repeat."**
+> *"Code. Learn. Build. Repeat."*
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=250&color=0:00BFFF,100:2563EB"/>
+````

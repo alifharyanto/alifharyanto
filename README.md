@@ -107,8 +107,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alifharyanto&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=440" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifharyanto&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=440" width="42%" alt="top languages"/>
+<img src="https://github-stats-alif.vercel.app/api?username=alifharyanto&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=440" width="49%" alt="github stats"/>
+<img src="https://github-stats-alif.vercel.app/api/top-langs/?username=alifharyanto&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=440" width="42%" alt="top languages"/>
 
 <br/><br/>
 

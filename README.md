@@ -6,19 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22D3EE&height=280&section=header&text=Muhammad%20Alif%20Haryanto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Roblox%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header banner"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TYPING TITLE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Roblox+Game+Developer;Building+Scalable+%26+Awesome+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- BADGES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=alifharyanto&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/alifharyanto?label=Followers&style=for-the-badge&color=22d3ee" alt="Followers"/>
@@ -27,10 +19,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧾 About Me
 
@@ -49,18 +37,11 @@
     "AI Enthusiast"
   ],
   "currentlyLearning": [
-    "React.js",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "Laravel",
-    "PostgreSQL"
+    "React.js", "Next.js", "Node.js", "Express.js", "Laravel", "PostgreSQL"
   ],
   "interests": [
-    "Artificial Intelligence",
-    "Web Architecture",
-    "Roblox Game Mechanics",
-    "Embedded Systems & Hardware"
+    "Artificial Intelligence", "Web Architecture",
+    "Roblox Game Mechanics", "Embedded Systems & Hardware"
   ],
   "goal": "Build software that is useful, scalable, and impactful."
 }
@@ -68,46 +49,36 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,lua" alt="languages"/>
 
 <br/><br/>
 
 **Frameworks & Libraries**
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind" alt="frameworks"/>
 
 <br/><br/>
 
 **Database & Cloud**
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,supabase,gcp" alt="database and cloud"/>
 
 <br/><br/>
 
 **Tools**
-
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,figma" alt="tools"/>
 
 <br/><br/>
 
 **Game Development**
-
 <img src="https://skillicons.dev/icons?i=roblox,lua" alt="game dev"/>
 
 <br/><br/>
 
 **AI Tools**
-
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="copilot"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude"/>
@@ -116,10 +87,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -136,34 +103,30 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alifharyanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifharyanto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alifharyanto&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=440" width="49%" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifharyanto&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=440" width="42%" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifharyanto&theme=tokyonight&hide_border=true" width="60%" alt="streak stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alifharyanto&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alifharyanto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifharyanto&theme=radical&hide_border=true" width="60%" alt="streak stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alifharyanto&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="100%" alt="trophy"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION ACTIVITY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -171,11 +134,19 @@
 
 </div>
 
+> ⚠️ **Catatan:** Snake animation di atas hanya muncul kalau GitHub Action generator-nya sudah aktif di repo profile (`alifharyanto/alifharyanto`), karena butuh branch `output` yang dibuat otomatis oleh workflow. Kalau belum pernah setup, aku bisa buatkan file workflow-nya sekalian — tinggal bilang aja.
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧩 Currently Building
+
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Web%20%26%20Roblox%20Systems-0EA5E9?style=for-the-badge)
+
+</div>
+
+<br/>
 
 ## 🌐 Connect With Me
 
@@ -196,14 +167,10 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dynamic quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dynamic quote"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER BANNER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0EA5E9&height=150&section=footer" width="100%" alt="footer banner"/>
